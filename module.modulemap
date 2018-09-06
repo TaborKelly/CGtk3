@@ -1,0 +1,7 @@
+module CGtk3 [system] {
+  header "shim.h"
+
+  link "gtk-3.0"
+
+  export *
+}
